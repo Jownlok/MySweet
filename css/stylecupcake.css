@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Momo+Signature&family=Pacifico&display=swap');
+    
+
+.titulo {
+    text-align: center;color: white; font-family: "Momo Signature" , cursive;border-bottom: dashed rgb(255, 255, 255);
+}
+.igredientes {
+     font-family: "Playwrite IE", cursive;
+}

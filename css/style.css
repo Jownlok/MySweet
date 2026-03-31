@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Momo+Signature&display=swap');
+body {
+    
+   
+}
+.Title {
+    display: inline-block;
+    z-index: 1;
+    background-color: #fc7070; border: solid #fd7070 20px; border-radius: 10px; height: 100px; width: 300px;
+    font-family: "Momo Signature", cursive; font-size: 60px;
+    color: white;word-spacing: -20px;position: absolute;margin-top: -20px;margin-left: -8px;text-transform: capitalize;
+}
+.Receitas {
+    margin-top: 100px;
+}
+.Navbar {
+    display: ;
+    position: absolute; width: 100%; left: 0; top: 0;
+    text-align: center; font-size: 40px; word-spacing: 100px;
+    background-color: #ffffff; margin:100; border: solid 20px; color: #ffffff; border-bottom: solid #ffe2e5 10px;
+    
+}
+.cookie {
+    position: relative;
+    border: none; margin-top: -10px;margin-left: 350px;
+}
+.bar {
+    position: relative;
+    font-family: "Momo Signature", cursive; font-size: 35px; 
+    text-decoration: none; color: white; background-color: #fd7070; border-radius: 10px;
+    display: inline-block; /* Necessário para transformar texto */
+    transition: transform 0.2s ease; /* Tempo e suavidade da animação */
+}
+.bar:hover {
+    border: solid rgb(226, 116, 116) 2px;
+    transform: scale(1.2);
+}
+.Section {  
+    margin-top: 100px; max-width: 200px;;
+}
+.footwer {
+    margin-left: -100px; margin-bottom: -20px; margin-right: -100px;
+    background-color: #ffffff; 
+    border: solid 20px; color:#ffffff;
+    position: relative;
+    border-top: solid #fc7070 5px;
+
+}
+.fotext {
+    color: #fc7070; font-size: 20px; text-align: center;text-decoration: ;
+}
